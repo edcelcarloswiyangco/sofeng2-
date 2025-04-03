@@ -1,9 +1,41 @@
 admin_password = 'superadmin'
 
 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 def admin():
     def manbar():#manbar ay manage of barber
         print("The manage of barber is comming soon ")
+        while True:
+            print("1. add or create a account for barber \n2.delete a account for barber \n")
 
     def mansched():#mansched ay manage of barber
         print("The manage of schedule is comming soon ")
